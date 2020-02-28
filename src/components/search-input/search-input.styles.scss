@@ -1,0 +1,22 @@
+.input-wrapper{
+  height: 70px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(202, 202, 255);
+}
+
+.input-itself{
+  border: 1px solid rgb(152, 152, 152);
+  height: 30px ;
+  width: 200px;
+  font-size: 1.2rem;
+  background: rgb(255, 247, 247);
+  padding: 5px 0 5px 10px;
+  border-radius: 2px;
+}
+
+.input-label{
+  margin-right: 8px;
+}
