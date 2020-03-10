@@ -1,15 +1,13 @@
 ## [LIVE LINK](https://karanius.github.io/employee-dashboard/)
 
-Demonstration of React Skills:
-![](screenshot.png)
-
-
-
 # UofT Full-Stack Web Development Bootcamp Project #14: React Employee Directory
+
 
 ## Overview
 
 An employee directory with React. This app requires breaking up the application's UI into components, manage component state, and respond to user events.
+
+![](screenshot.gif)
 
 ## User Story
 
