@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/employee-dashboard/static/css/main.e2fc6af4.chunk.css",
-    "main.js": "/employee-dashboard/static/js/main.ec2b10d6.chunk.js",
-    "main.js.map": "/employee-dashboard/static/js/main.ec2b10d6.chunk.js.map",
-    "runtime-main.js": "/employee-dashboard/static/js/runtime-main.de203d6a.js",
-    "runtime-main.js.map": "/employee-dashboard/static/js/runtime-main.de203d6a.js.map",
-    "static/js/2.24859a87.chunk.js": "/employee-dashboard/static/js/2.24859a87.chunk.js",
-    "static/js/2.24859a87.chunk.js.map": "/employee-dashboard/static/js/2.24859a87.chunk.js.map",
-    "index.html": "/employee-dashboard/index.html",
-    "precache-manifest.2c31b26d7f75e209bd84cfd7b75f7994.js": "/employee-dashboard/precache-manifest.2c31b26d7f75e209bd84cfd7b75f7994.js",
-    "service-worker.js": "/employee-dashboard/service-worker.js",
-    "static/css/main.e2fc6af4.chunk.css.map": "/employee-dashboard/static/css/main.e2fc6af4.chunk.css.map",
-    "static/js/2.24859a87.chunk.js.LICENSE.txt": "/employee-dashboard/static/js/2.24859a87.chunk.js.LICENSE.txt"
+    "main.css": "/UofT_employee-dashboard_REACT/static/css/main.e2fc6af4.chunk.css",
+    "main.js": "/UofT_employee-dashboard_REACT/static/js/main.e20517cf.chunk.js",
+    "main.js.map": "/UofT_employee-dashboard_REACT/static/js/main.e20517cf.chunk.js.map",
+    "runtime-main.js": "/UofT_employee-dashboard_REACT/static/js/runtime-main.42397f3f.js",
+    "runtime-main.js.map": "/UofT_employee-dashboard_REACT/static/js/runtime-main.42397f3f.js.map",
+    "static/js/2.24859a87.chunk.js": "/UofT_employee-dashboard_REACT/static/js/2.24859a87.chunk.js",
+    "static/js/2.24859a87.chunk.js.map": "/UofT_employee-dashboard_REACT/static/js/2.24859a87.chunk.js.map",
+    "index.html": "/UofT_employee-dashboard_REACT/index.html",
+    "precache-manifest.b405e683e44213b4fbead3f89403ace1.js": "/UofT_employee-dashboard_REACT/precache-manifest.b405e683e44213b4fbead3f89403ace1.js",
+    "service-worker.js": "/UofT_employee-dashboard_REACT/service-worker.js",
+    "static/css/main.e2fc6af4.chunk.css.map": "/UofT_employee-dashboard_REACT/static/css/main.e2fc6af4.chunk.css.map",
+    "static/js/2.24859a87.chunk.js.LICENSE.txt": "/UofT_employee-dashboard_REACT/static/js/2.24859a87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de203d6a.js",
+    "static/js/runtime-main.42397f3f.js",
     "static/js/2.24859a87.chunk.js",
     "static/css/main.e2fc6af4.chunk.css",
-    "static/js/main.ec2b10d6.chunk.js"
+    "static/js/main.e20517cf.chunk.js"
   ]
 }
