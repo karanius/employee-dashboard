@@ -1,4 +1,4 @@
-## [LIVE LINK](https://karanius.github.io/employee-dashboard/)
+## [LIVE LINK](https://karanius.github.io/UofT_employee-dashboard_REACT/)
 
 # UofT Full-Stack Web Development Bootcamp Project #14: React Employee Directory
 
